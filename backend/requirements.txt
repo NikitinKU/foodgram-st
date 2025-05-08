@@ -1,0 +1,8 @@
+django>=4.2
+gunicorn
+djangorestframework
+djoser
+python-dotenv
+drf-extra-fields
+psycopg2-binary
+Pillow
